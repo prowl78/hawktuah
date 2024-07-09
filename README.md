@@ -1,4 +1,6 @@
-![Hawk Tuah Logo](./logo.png)
+# Hawk Tuah
+
+![Hawk Tuah Logo](Logo.png)
 
 # Hawk Tuah
 
