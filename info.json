@@ -1,0 +1,11 @@
+{
+  "name": "Hawk Tuah",
+  "symbol": "HAWK",
+  "address": "0x046e2fa1c0e4a246ff71dca2b4b3efa7b891df6d",
+  "decimals": 18,
+  "description": "Hawk Tuah is a cutting-edge memecoin on the Polygon network, blending meme culture with blockchain technology.",
+  "website": "https://your-website-link.com",
+  "links": {
+    "github": "https://github.com/prowl78/hawktuah"
+  }
+}
