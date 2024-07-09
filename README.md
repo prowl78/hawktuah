@@ -1,5 +1,5 @@
-# hawktuah
-HawkTuah is a community-driven memecoin on the Polygon network, blending meme culture with blockchain tech. Secure, fun, and engaging. Explore the project and join our community!
+![Hawk Tuah Logo](./logo.png)
+
 # Hawk Tuah
 
 Hawk Tuah is a cutting-edge memecoin on the Polygon network, blending meme culture with blockchain technology. Designed for rapid transactions and community engagement, Hawk Tuah aims to bring fun and functionality to the crypto space.
